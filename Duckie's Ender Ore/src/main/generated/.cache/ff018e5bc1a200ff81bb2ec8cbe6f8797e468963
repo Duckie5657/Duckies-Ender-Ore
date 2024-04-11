@@ -1,0 +1,18 @@
+// 1.20.4	2024-04-11T13:44:18.4176303	ender_ore/Model Definitions
+7c56a5f9a06e9b9db9c5fcb5f54120e032362cc7 assets\ender_ore\models\item\ender_ingot.json
+d50b5b7395deaceaecbcc19d46319e64ae5cd646 assets\ender_ore\blockstates\ender_block.json
+dbbdde7cb93ee8c0e14f3329be020cfdca3dbf69 assets\ender_ore\models\item\ender_block.json
+3df0dca2b69c2e7108f964cbe345e0432f149325 assets\ender_ore\blockstates\ender_ore.json
+f80f1f509596350cfb23838678549829b729a657 assets\ender_ore\models\item\ender_helmet.json
+ea70259f93909ca0758e5c9a2c1705fc695af6b2 assets\ender_ore\models\item\ender_boots.json
+785593da99d4494e1b387b417453174645fb5fec assets\ender_ore\models\block\ender_ore.json
+e0fb4aa9fd5228212c2bb2fad261bbbb18c49608 assets\ender_ore\models\item\ender_sword.json
+c7b6b18c1201da7df62e9d4e0b082ee42f939879 assets\ender_ore\models\item\ender_ore.json
+a33a8354b22521afb445abbfe9a79e19b823991b assets\ender_ore\models\item\raw_ender_ore.json
+3ddfbb06748a898f8bede972bcc00157d3a16b23 assets\ender_ore\models\block\ender_block.json
+9b24caa3f2cf4150b55f4e45519c893046a66c7d assets\ender_ore\models\item\ender_leggings.json
+55eb7d5d7d154e8eede199ea84f243c0a18a7140 assets\ender_ore\models\item\ender_pickaxe.json
+700693b74897b09aa831e19f31e933a27cedf376 assets\ender_ore\models\item\ender_axe.json
+5dac18033b73d17fe7e1efa0bd1c2af0c8685a58 assets\ender_ore\models\item\ender_hoe.json
+44b376f22a8fca4ba5e25f4f3d0b5cb208ba81ac assets\ender_ore\models\item\ender_shovel.json
+c8690de011af15c73936e9b3faa3051e77f6d962 assets\ender_ore\models\item\ender_chestplate.json

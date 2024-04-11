@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "ender_ore",
+	"version": "${version}",
+	"name": "ender_ore",
+	"description": "New Ender Ores will know spawn in the end ender coal, ender diamonds, and of course the main star Ender Ore which will be able to craft better stuff than that netherite stuff, thanks to kaupenjoe's fabric modding series for helping me",
+	"authors": [
+		"ChickenLover_13(gamertag), drummerduck2000(discord), KaupenJoe"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/ender_ore/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.duckie.ender_ore.EnderOre"
+		],
+		"fabric-datagen": [
+			"net.duckie.ender_ore.EnderOreDataGenerator"
+		]
+	},
+	"mixins": [
+		"ender_ore.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.9",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
